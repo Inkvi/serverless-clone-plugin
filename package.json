@@ -1,6 +1,6 @@
 {
   "name": "serverless-clone-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A serverless plugin to create multiple copies of a function",
   "main": "index.js",
   "scripts": {
